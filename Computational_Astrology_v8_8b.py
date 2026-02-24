@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+from altair.vegalite.v4.api import Chart
 import ollama
 
 # ────────────────────────────────────────────────
