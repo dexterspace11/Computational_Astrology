@@ -1,0 +1,7 @@
+numpy
+pandas
+skyfield
+matplotlib
+seaborn
+streamlit
+ollama
